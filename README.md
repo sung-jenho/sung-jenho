@@ -4,7 +4,7 @@
 
 
 
-### 🚀 About Me  
+### 🧑‍💻 About Me  
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
 </table>
 
 
-### 🛠 Tech Stack  
+### 🧬 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
@@ -47,7 +47,7 @@
 
 
 
-### 🌐 Connect With Me  
+### 📩 Connect With Me  
 
 <p align="center">
   <a href="https://www.facebook.com/jenho.29/" target="_blank">
@@ -68,7 +68,7 @@
 </p>
 
 
-### 📂 Featured Projects  
+### 🧩 Featured Projects  
 
 ✨ **Below are some of my favorite open-source projects**  
 
