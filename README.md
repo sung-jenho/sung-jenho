@@ -67,21 +67,15 @@
 
 ---
 
-#### 🌟 Awesome Project 1  
-A brief description of the project goes here. Highlight its purpose and features.  
-[Repo](https://github.com/sung-jenho/project1) | [Live](https://sung-jenho.github.io/project1)  
+<div align="center">
 
----
+| 🌟 **Awesome Project 1** | 🚀 **Awesome Project 2** | ✨ **Awesome Project 3** |
+|---------------------------|---------------------------|---------------------------|
+| A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. |
+| [Repo](https://github.com/sung-jenho/project1) | [Repo](https://github.com/sung-jenho/project2) | [Repo](https://github.com/sung-jenho/project3) |
+| [Live](https://sung-jenho.github.io/project1) | [Live](https://sung-jenho.github.io/project2) | [Live](https://sung-jenho.github.io/project3) |
 
-#### 🚀 Awesome Project 2  
-A brief description of the project goes here. Highlight its purpose and features.  
-[Repo](https://github.com/sung-jenho/project2) | [Live](https://sung-jenho.github.io/project2)  
-
----
-
-#### ✨ Awesome Project 3  
-A brief description of the project goes here. Highlight its purpose and features.  
-[Repo](https://github.com/sung-jenho/project3) | [Live](https://sung-jenho.github.io/project3)  
+</div>
 ---
 
 ### 📊 GitHub Stats  
