@@ -38,7 +38,6 @@
 
 ---
 
-### 🌐 Connect With Me  
 
 ### 🌐 Connect With Me  
 
@@ -56,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.svg" width="40" alt="YouTube" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="40" alt="YouTube" />
   </a>
 </p>
 ---
