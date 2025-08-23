@@ -40,9 +40,11 @@
 
 ### 🌐 Connect With Me  
 
+### 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.facebook.com/jenho.29/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/jenho_nac/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
@@ -54,10 +56,9 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" alt="YouTube" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.svg" width="40" alt="YouTube" />
   </a>
 </p>
-
 ---
 
 ### 📂 Featured Projects  
