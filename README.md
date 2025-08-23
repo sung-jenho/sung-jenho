@@ -63,7 +63,7 @@
 
 ### 📂 Featured Projects  
 
-✨ **Check out some of my favorite projects below!**  
+✨ **Below are some of my favorite open-source projects**  
 
 ---
 
@@ -72,7 +72,7 @@
 | 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
 |---------------------------|---------------------------|---------------------------|
 | [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif)](https://sung-jenho.github.io/project3) |
-| A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. |
+| will update this soon. | still ongoing. | gonna plan first. |
 
 </div>
 ---
