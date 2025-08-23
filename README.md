@@ -2,7 +2,7 @@
 <h1>👋 I'm <highlight>Jenho Nacilla</highlight> - Aspiring Web Developer from the Philippines</h1>
 </div>
 
----
+
 
 ### 🚀 About Me  
 
@@ -21,7 +21,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ### 🛠 Tech Stack  
 
@@ -42,11 +42,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" alt="TypeScript" width="50" />
 
   
-
-
 </p>
 
----
+
 
 
 ### 🌐 Connect With Me  
@@ -68,13 +66,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height: 40px; width: auto;" alt="YouTube" />
 </a>
 </p>
----
+
 
 ### 📂 Featured Projects  
 
 ✨ **Below are some of my favorite open-source projects**  
 
----
+
 
 <div align="center">
 
@@ -84,7 +82,7 @@
 | will update this soon. | still ongoing. | gonna plan first. |
 
 </div>
----
+
 
 ### 📊 GitHub Stats  
 
@@ -96,6 +94,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sung-jenho&theme=tokyonight" alt="Jenho's GitHub streak" />
 </p>
 
----
+
 
 <h3 align="center">💡 "Code. Create. Conquer." 💡</h3>
