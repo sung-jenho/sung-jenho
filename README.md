@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td style="width: 40%; text-align: center;">
-      <img src="https://i.imgur.com/eXv5nyK.gif" width="250" alt="Rimuru Tempest GIF" />
+      <img src="https://i.pinimg.com/originals/97/8f/c5/978fc55f8839a4fb66666e7d495f35a5.gif" width="250" alt="GIF" />
     </td>
   </tr>
 </table>
