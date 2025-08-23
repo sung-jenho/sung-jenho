@@ -1,16 +1,117 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jenho Nacilla</h1>
+<h3 align="center">Aspiring Web Developer from the Philippines 🌏</h3>
 
-<!--
-**sung-jenho/sung-jenho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td style="width: 60%; text-align: left;">
+      <ul>
+        <li>💻 Passionate about <strong>Web Development & Open Source</strong></li>
+        <li>🌱 Currently exploring <strong>Full Stack Development</strong></li>
+        <li>🎯 Goal: To become a <strong>Pro Web Developer</strong> and contribute to <strong>amazing projects</strong></li>
+        <li>⚡ Fun fact: I code best with ☕ coffee + 🎧 music</li>
+      </ul>
+    </td>
+    <td style="width: 40%; text-align: center;">
+      <img src="https://i.imgur.com/eXv5nyK.gif" width="250" alt="Rimuru Tempest GIF" />
+    </td>
+  </tr>
+</table>
+---
+
+### 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+</p>
+
+---
+
+### 📂 Featured Projects  
+
+✨ **Check out some of my favorite projects below!**  
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="background: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); width: 300px; text-align: center; transition: transform 0.3s ease-in-out;">
+    <h3>🌟 Awesome Project 1</h3>
+    <p>A brief description of the project goes here. Highlight its purpose and features.</p>
+    <div>
+      <a href="https://github.com/sung-jenho/project1" target="_blank" style="text-decoration: none; margin-right: 10px;">
+        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
+      </a>
+      <a href="https://sung-jenho.github.io/project1" target="_blank" style="text-decoration: none;">
+        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Link</button>
+      </a>
+    </div>
+  </div>
+  <div style="background: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); width: 300px; text-align: center; transition: transform 0.3s ease-in-out;">
+    <h3>🚀 Awesome Project 2</h3>
+    <p>A brief description of the project goes here. Highlight its purpose and features.</p>
+    <div>
+      <a href="https://github.com/sung-jenho/project2" target="_blank" style="text-decoration: none; margin-right: 10px;">
+        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
+      </a>
+      <a href="https://sung-jenho.github.io/project2" target="_blank" style="text-decoration: none;">
+        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Link</button>
+      </a>
+    </div>
+  </div>
+  <div style="background: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); width: 300px; text-align: center; transition: transform 0.3s ease-in-out;">
+    <h3>✨ Awesome Project 3</h3>
+    <p>A brief description of the project goes here. Highlight its purpose and features.</p>
+    <div>
+      <a href="https://github.com/sung-jenho/project3" target="_blank" style="text-decoration: none; margin-right: 10px;">
+        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
+      </a>
+      <a href="https://sung-jenho.github.io/project3" target="_blank" style="text-decoration: none;">
+        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Link</button>
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sung-jenho&show_icons=true&theme=tokyonight" alt="Jenho's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sung-jenho&theme=tokyonight" alt="Jenho's GitHub streak" />
+</p>
+
+---
+
+<h3 align="center">💡 "Code. Create. Conquer." 💡</h3>
