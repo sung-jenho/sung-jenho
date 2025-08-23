@@ -55,8 +55,8 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" height="60" alt="YouTube" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height: 40px; width: auto;" alt="YouTube" />
+</a>
 </p>
 ---
 
