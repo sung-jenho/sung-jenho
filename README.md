@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm Jenho Nacilla - Aspiring Web Developer from the Philippines 🌏"</h1>
+<h1>👋 I'm <highlight>Jenho Nacilla</highlight> - Aspiring Web Developer from the Philippines 🌏"</h1>
 </div>
 
 ---
