@@ -71,7 +71,7 @@
 
 | 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
 |---------------------------|---------------------------|---------------------------|
-| [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/1200x/19/8b/c6/198bc66efc0774ebba078015407cbd8b.jpg)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/1200x/19/8b/c6/198bc66efc0774ebba078015407cbd8b.jpg)](https://sung-jenho.github.io/project3) |
+| [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/1200x/19/8b/c6/198bc66efc0774ebba078015407cbd8b.jpg)](https://sung-jenho.github.io/project3) |
 | A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. | A brief description of the project goes here. Highlight its purpose and features. |
 
 </div>
