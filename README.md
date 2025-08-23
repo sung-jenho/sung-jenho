@@ -29,8 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Notion-Dark.svg" alt="Notion" width="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
@@ -38,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Dark.svg" alt="Figma" width="50" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Notion-Dark.svg" alt="Notion" width="50" />
 
 </p>
 
