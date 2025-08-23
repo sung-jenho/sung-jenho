@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/45/d5/b1/45d5b1c60e357a02dc875d8ae2446b66.gif" alt="Hi 👋, I'm Jenho Nacilla - Aspiring Web Developer from the Philippines 🌏">
+<h1>Hi 👋, I'm Jenho Nacilla - Aspiring Web Developer from the Philippines 🌏"</h1>
 </div>
 
 ---
