@@ -65,44 +65,23 @@
 
 ✨ **Check out some of my favorite projects below!**  
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="background: linear-gradient(135deg, #1e1e2e, #2a2a3e); padding: 20px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); width: 300px; text-align: center; transition: transform 0.3s ease-in-out; cursor: pointer;">
-    <h3 style="color: #FFD700;">🌟 Awesome Project 1</h3>
-    <p style="color: #ccc;">A brief description of the project goes here. Highlight its purpose and features.</p>
-    <div>
-      <a href="https://github.com/sung-jenho/project1" target="_blank" style="text-decoration: none; margin-right: 10px;">
-        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
-      </a>
-      <a href="https://sung-jenho.github.io/project1" target="_blank" style="text-decoration: none;">
-        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Live</button>
-      </a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #1e1e2e, #2a2a3e); padding: 20px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); width: 300px; text-align: center; transition: transform 0.3s ease-in-out; cursor: pointer;">
-    <h3 style="color: #FF4500;">🚀 Awesome Project 2</h3>
-    <p style="color: #ccc;">A brief description of the project goes here. Highlight its purpose and features.</p>
-    <div>
-      <a href="https://github.com/sung-jenho/project2" target="_blank" style="text-decoration: none; margin-right: 10px;">
-        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
-      </a>
-      <a href="https://sung-jenho.github.io/project2" target="_blank" style="text-decoration: none;">
-        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Live</button>
-      </a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #1e1e2e, #2a2a3e); padding: 20px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); width: 300px; text-align: center; transition: transform 0.3s ease-in-out; cursor: pointer;">
-    <h3 style="color: #FF69B4;">✨ Awesome Project 3</h3>
-    <p style="color: #ccc;">A brief description of the project goes here. Highlight its purpose and features.</p>
-    <div>
-      <a href="https://github.com/sung-jenho/project3" target="_blank" style="text-decoration: none; margin-right: 10px;">
-        <button style="background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Repo</button>
-      </a>
-      <a href="https://sung-jenho.github.io/project3" target="_blank" style="text-decoration: none;">
-        <button style="background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Live</button>
-      </a>
-    </div>
-  </div>
-</div>
+---
+
+#### 🌟 Awesome Project 1  
+A brief description of the project goes here. Highlight its purpose and features.  
+[Repo](https://github.com/sung-jenho/project1) | [Live](https://sung-jenho.github.io/project1)  
+
+---
+
+#### 🚀 Awesome Project 2  
+A brief description of the project goes here. Highlight its purpose and features.  
+[Repo](https://github.com/sung-jenho/project2) | [Live](https://sung-jenho.github.io/project2)  
+
+---
+
+#### ✨ Awesome Project 3  
+A brief description of the project goes here. Highlight its purpose and features.  
+[Repo](https://github.com/sung-jenho/project3) | [Live](https://sung-jenho.github.io/project3)  
 ---
 
 ### 📊 GitHub Stats  
