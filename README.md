@@ -41,17 +41,20 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+  <a href="https://www.facebook.com/jenho.29/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  <a href="https://www.instagram.com/jenho_nac/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/jenho-nacilla-b3391135b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="40" alt="YouTube" />
   </a>
 </p>
 
