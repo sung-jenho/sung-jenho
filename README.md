@@ -60,10 +60,23 @@
 
 <div align="center">
 
-| 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
-|---------------------------|---------------------------------------------|---------------------|
-| [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif)](https://sung-jenho.github.io/project3) |
-| will update this soon. | still ongoing. | gonna plan first. |
+<a href="https://sung-jenho.github.io/project1" style="margin:0 12px; text-decoration:none;">
+  <p><strong>🌟 Expense Tracker App</strong></p>
+  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif" width="250" alt="Expense Tracker"/>
+  <p>will update this soon.</p>
+</a>
+
+<a href="https://sung-jenho.github.io/project2" style="margin:0 12px; text-decoration:none;">
+  <p><strong>🚀 Student Course Recommendation For SHS</strong></p>
+  <img src="https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif" width="250" alt="Course Recommendation"/>
+  <p>still ongoing.</p>
+</a>
+
+<a href="https://sung-jenho.github.io/project3" style="margin:0 12px; text-decoration:none;">
+  <p><strong>✨ Still Ongoing</strong></p>
+  <img src="https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif" width="250" alt="Ongoing Project"/>
+  <p>gonna plan first.</p>
+</a>
 
 </div>
 
