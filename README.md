@@ -58,12 +58,29 @@
 
 ✨ **Below are some of my favorite open-source projects**  
 
-<div align="center">
+<!-- Three projects side-by-side, no borders -->
+<div align="center" style="display:inline-block;">
 
-| 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
-|---------------------------|---------------------------------------------|---------------------|
-| [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif)](https://sung-jenho.github.io/project3) |
-| will update this soon. | still ongoing. | gonna plan first. |
+<a href="https://sung-jenho.github.io/project1" target="_blank" style="margin:0 12px; text-decoration:none;">
+  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif"
+       width="250" alt="Expense Tracker"/>
+  <br><strong>🌟 Expense Tracker App</strong><br>
+  <em>will update this soon.</em>
+</a>
+
+<a href="https://sung-jenho.github.io/project2" target="_blank" style="margin:0 12px; text-decoration:none;">
+  <img src="https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif"
+       width="250" alt="Course Recommendation"/>
+  <br><strong>🚀 Student Course Recommendation For SHS</strong><br>
+  <em>still ongoing.</em>
+</a>
+
+<a href="https://sung-jenho.github.io/project3" target="_blank" style="margin:0 12px; text-decoration:none;">
+  <img src="https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif"
+       width="250" alt="Ongoing Project"/>
+  <br><strong>✨ Still Ongoing</strong><br>
+  <em>gonna plan first.</em>
+</a>
 
 </div>
 
