@@ -7,7 +7,6 @@
 
 ### 🧑‍💻 About Me  
 
-<!-- Image floats right; list stays left -->
 <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif"
      width="250" align="right" alt="GIF" />
 
@@ -36,21 +35,11 @@
 ### 📩 Connect With Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/jenho.29/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/jenho_nac/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/jenho-nacilla-b3391135b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height:40px;width:auto;" alt="YouTube" />
-  </a>
+  <a href="https://www.facebook.com/jenho.29/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/jenho_nac/"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/jenho-nacilla-b3391135b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" /></a>
+  <a href="https://www.youtube.com/@jenhonacilla3457"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="YouTube" /></a>
 </p>
 
 
@@ -58,31 +47,28 @@
 
 ✨ **Below are some of my favorite open-source projects**  
 
-<!-- Three projects side-by-side, no borders -->
-<div align="center" style="display:inline-block;">
+<!-- Three projects, side-by-side, no table — images WILL show -->
+<p align="center">
 
-<a href="https://sung-jenho.github.io/project1" target="_blank" style="margin:0 12px; text-decoration:none;">
-  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif"
-       width="250" alt="Expense Tracker"/>
-  <br><strong>🌟 Expense Tracker App</strong><br>
+<a href="https://sung-jenho.github.io/project1">
+  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif" width="220" alt="Expense Tracker App" /><br>
+  <strong>🌟 Expense Tracker App</strong><br>
   <em>will update this soon.</em>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://sung-jenho.github.io/project2" target="_blank" style="margin:0 12px; text-decoration:none;">
-  <img src="https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif"
-       width="250" alt="Course Recommendation"/>
-  <br><strong>🚀 Student Course Recommendation For SHS</strong><br>
+<a href="https://sung-jenho.github.io/project2">
+  <img src="https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif" width="220" alt="Student Course Recommendation" /><br>
+  <strong>🚀 Student Course Recommendation For SHS</strong><br>
   <em>still ongoing.</em>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://sung-jenho.github.io/project3" target="_blank" style="margin:0 12px; text-decoration:none;">
-  <img src="https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif"
-       width="250" alt="Ongoing Project"/>
-  <br><strong>✨ Still Ongoing</strong><br>
+<a href="https://sung-jenho.github.io/project3">
+  <img src="https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif" width="220" alt="Still Ongoing Project" /><br>
+  <strong>✨ Still Ongoing</strong><br>
   <em>gonna plan first.</em>
 </a>
 
-</div>
+</p>
 
 
 ### 📊 GitHub Stats  
