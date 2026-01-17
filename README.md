@@ -1,26 +1,20 @@
+<!-- Header (no GitHub bottom border) -->
 <div align="center">
-<h1> Hey!👋 Name's Jenho Nacilla!
+  <p style="font-size:2rem; font-weight:bold; margin:0;">
+    Hey! 👋 Name's Jenho Nacilla!
+  </p>
 </div>
-
-
 
 ### 🧑‍💻 About Me  
 
-<table>
-  <tr>
-    <td style="width: 60%; text-align: left;">
-      <ul>
-        <li>💻 Passionate about <strong>Web Development & Open Source</strong></li>
-        <li>🌱 Currently exploring <strong>Full Stack Development</strong></li>
-        <li>🎯 Goal: To become a <strong>Pro Web Developer</strong> and contribute to <strong>amazing projects</strong></li>
-        <li>⚡ Fun fact: I code best with ☕ coffee + 🎧 music</li>
-      </ul>
-    </td>
-    <td style="width: 40%; text-align: center;">
-      <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif" width="250" alt="GIF" />
-    </td>
-  </tr>
-</table>
+<!-- Image floats right; list stays left -->
+<img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif"
+     width="250" align="right" alt="GIF" />
+
+- 💻 Passionate about **Web Development & Open Source**
+- 🌱 Currently exploring **Full Stack Development**
+- 🎯 Goal: To become a **Pro Web Developer** and contribute to **amazing projects**
+- ⚡ Fun fact: I code best with ☕ coffee + 🎧 music
 
 
 ### 🧬 Tech Stack  
@@ -36,11 +30,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Wordpress.svg" alt="WordPress" width="50" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" alt="Postman" width="50" />
-
-  
 </p>
-
-
 
 
 ### 📩 Connect With Me  
@@ -59,7 +49,8 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height: 40px; width: auto;" alt="YouTube" /></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height:40px;width:auto;" alt="YouTube" />
+  </a>
 </p>
 
 
@@ -67,12 +58,10 @@
 
 ✨ **Below are some of my favorite open-source projects**  
 
-
-
 <div align="center">
 
 | 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
-|---------------------------|---------------------------|---------------------------|
+|---------------------------|---------------------------------------------|---------------------|
 | [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif)](https://sung-jenho.github.io/project3) |
 | will update this soon. | still ongoing. | gonna plan first. |
 
@@ -89,6 +78,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sung-jenho&theme=tokyonight" alt="Jenho's GitHub streak" />
 </p>
 
-
-
-<h3 align="center">💡 "Code. Create. Conquer." 💡</h3>
+<h3 align="center">💡 "Code.&nbsp;Create.&nbsp;Conquer." 💡</h3>
