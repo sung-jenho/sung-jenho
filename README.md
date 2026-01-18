@@ -1,8 +1,8 @@
 <!-- Header (no GitHub bottom border) -->
 <div align="center">
-  <p style="font-size:2rem; font-weight:bold; margin:0;">
+ <h1> <p style="font-size:2rem; font-weight:bold; margin:0;">
     Hey! 👋 Name's Jenho Nacilla!
-  </p>
+  </p> </h1>
 </div>
 
 ### 🧑‍💻 About Me  
