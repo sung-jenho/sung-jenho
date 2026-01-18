@@ -7,7 +7,6 @@
 
 ### 🧑‍💻 About Me  
 
-<!-- Image floats right; list stays left -->
 <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif"
      width="250" align="right" alt="GIF" />
 
@@ -36,20 +35,20 @@
 ### 📩 Connect With Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/jenho.29/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40" alt="Facebook" />
+  <a href="https://www.facebook.com/jenho.29/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/jenho_nac/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  <a href="https://www.instagram.com/jenho_nac/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jenho-nacilla-b3391135b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jenho-nacilla-b3391135b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
+  <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="height:40px;width:auto;" alt="YouTube" />
+  <a href="https://www.youtube.com/@jenhonacilla3457" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="YouTube" />
   </a>
 </p>
 
