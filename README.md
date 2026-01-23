@@ -1,7 +1,7 @@
 <!-- Header (no GitHub bottom border) -->
 <div align="center">
  <h1> <p style="font-size:2rem; font-weight:bold; margin:0;">
-    Hey! 👋 Name's Jenho Nacilla!
+    Hey there! Name's Jenho Nacilla!
   </p> </h1>
 </div>
 
