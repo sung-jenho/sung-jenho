@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me  
 
 <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif"
-     width="250" align="right" alt="GIF" />
+     width="300" align="right" alt="GIF" />
 
 - 💻 Passionate about **Web Development & Open Source**
 - 🌱 Currently exploring **Full Stack Development**
