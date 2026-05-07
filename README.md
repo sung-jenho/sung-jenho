@@ -5,7 +5,7 @@
   </p> </h1>
 </div>
 
-### 🧑‍💻 About Me  
+###  About Me  
 
 <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif"
      width="250" padding="20px" align="right" alt="GIF" />
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I code best with ☕ coffee + 🎧 music
 
 
-### 🧬 Tech Stack  
+###  Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
@@ -32,7 +32,7 @@
 </p>
 
 
-### 📩 Connect With Me  
+###  Connect With Me  
 
 <p align="center">
   <a href="https://www.facebook.com/jenho.29/" target="_blank" rel="noopener noreferrer">
@@ -53,13 +53,13 @@
 </p>
 
 
-### 🧩 Featured Projects  
+###  Featured Projects  
 
-✨ **Below are some of my favorite open-source projects**  
+ **Below are some of my favorite open-source projects**  
 
 <div align="center">
 
-| 🌟 **Expense Tracker App** | 🚀 **Student Course Recommendation For SHS** | ✨ **Still Ongoing** |
+|  **Expense Tracker App** |  **Student Course Recommendation For SHS** |  **Still Ongoing** |
 |---------------------------|---------------------------------------------|---------------------|
 | [![Project 1 Image](https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif)](https://sung-jenho.github.io/project1) | [![Project 2 Image](https://i.pinimg.com/originals/f9/bf/81/f9bf81f07601720841276af5ade833fd.gif)](https://sung-jenho.github.io/project2) | [![Project 3 Image](https://i.pinimg.com/originals/eb/6c/54/eb6c540ce7bcf7452df5710124eba311.gif)](https://sung-jenho.github.io/project3) |
 | will update this soon. | still ongoing. | gonna plan first. |
@@ -77,4 +77,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sung-jenho&theme=tokyonight" alt="Jenho's GitHub streak" />
 </p>
 
-<h3 align="center">💡 "Code.&nbsp;Create.&nbsp;Conquer." 💡</h3>
+<h3 align="center"> "Code.&nbsp;Create.&nbsp;Conquer." </h3>
